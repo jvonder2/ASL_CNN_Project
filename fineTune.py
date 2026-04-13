@@ -33,7 +33,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 # =========================================================
 BASE_MODEL_PATH = r"C:\Users\jvond\ML_Project\second model\model2.keras"
 DATA_DIR = r"C:\Users\jvond\ML_Project\training data\merged_finetune"
-SAVE_DIR = r"C:\Users\jvond\ML_Project\third model"
+SAVE_DIR = r"C:\Users\jvond\ML_Project\third model\model"
 
 FINETUNED_MODEL_PATH = f"{SAVE_DIR}/_further.keras"
 FINETUNE_HISTORY_PATH = f"{SAVE_DIR}/finetune2_history.json"

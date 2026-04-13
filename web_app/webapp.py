@@ -49,7 +49,7 @@ from tkinter import font as tkfont
 # =============================================================================
 MODEL_PATH = os.environ.get(
     "ASL_MODEL_PATH",
-    r"C:\Users\jvond\ML_Project\third model\thirdmodel.keras",
+    r"C:\Users\jvond\ML_Project\third model\model\thirdmodel.keras",
 )
 HAND_LANDMARKER_PATH = os.environ.get(
     "ASL_HAND_LANDMARKER",
